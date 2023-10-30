@@ -1,0 +1,71 @@
+body {
+    background-image: url(/img/map.jpeg);
+    background-size: 100%;
+}
+
+.result {
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-left: 5px;
+    background-color: aqua;
+    width: 25vw;
+    min-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.result h1 {
+    text-decoration: underline;
+}
+
+.result img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 21vw;
+    min-width: 280px;
+}
+
+#hidden {
+    display: none;
+}
+
+#resultName button {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 3px solid black;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputForm {
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* text-align: center */
+    width: 261px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+}
+
+.inputForm h1 {
+    text-decoration: underline;
+}
+
+button {
+    cursor: pointer;
+}
+
+#landmarkButton {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 3px solid black;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+}
